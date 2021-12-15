@@ -1,5 +1,6 @@
 # smartBin
-IOT smart bin project
+## IOT smart bin project
+
 The purpose of this project is to design a simulation of a smart trash bin, which, when it is full or
 foul smelling, notifies the user about the timely removal of the garbage.
 For the simulation, it was decided to use the TinkerCAD cloud service with
